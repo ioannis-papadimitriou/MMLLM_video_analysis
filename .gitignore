@@ -1,0 +1,10 @@
+.vscode
+.cache
+.vrag
+__pycache__
+mixed_data
+qdrant_mm_db
+video_data
+Dockerfile
+Dockerfile.cpu
+docker_run.txt

@@ -1,0 +1,75 @@
+/* Custom styles for chat messages */
+.chat-message-user {
+    background-color: #140A1E;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.chat-message-agent {
+    background-color: #FF6049;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+/* Custom styles for buttons */
+.stButton>button {
+    background-color: #1F2F44;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.stButton>button:hover {
+    background-color: #e05300;
+    color: #fff;
+}
+
+/* Custom styles for the input box */
+.stTextInput input, .stTextArea textarea {
+    background-color: #1c2535;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+
+/* Custom styles for the chat input */
+.stChatInput input {
+    background-color: #1c2535;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+}
+
+/* Custom style for header with a different background color for a specific part */
+.custom-header {
+    font-size: 24px; /* Adjust size if needed */
+    font-weight: bold;
+}
+
+.highlight {
+    background-color: #FF6049; /* Change this to your desired background color */
+    color: #152335; /* Change this to your desired text color */
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Custom styles for sidebar buttons */
+.sidebar .stButton>button {
+    background-color: #1F2F44; /* New color for buttons */
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.sidebar .stButton>button:hover {
+    background-color: #FF6049; /* color on hover */
+}
+
